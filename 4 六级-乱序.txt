@@ -2520,7 +2520,7 @@ stillness	n. 寂静，无声
 lodging	n. 寄宿，住宿；住所
 successor	n. 继承人，继任者
 succession	n. 继承（权）
-quarterly	adj&adv. 季度的（地）
+quarterly	adj. 季度的（地） adv. 季度的（地）
 craft	n. 技巧
 souvenir	n. 纪念品
 documentary	adj. 纪录的；文献的
@@ -3318,7 +3318,7 @@ rupture	v. 破裂 n. 破裂，裂开；决裂，断绝
 wreck	n. 失事，残骸；精神或身体已垮的人 vt. 破坏
 virgin	adj. 未经开发的， 未经使用的， 未经触动的； 处女的 n. 处女，未婚女子
 afflict	vt. 使苦恼， 折磨
-reproach	n&vt. 责备， 批评
+reproach	n. 责备， 批评 vt. 责备， 批评
 fluctuate	vi. 波动， 涨落， 起伏
 compartment	n. 卧车包房， 隔间； 分隔的空间
 gloomy	adj. 忧郁的， 沮丧的； 令人沮丧的； 昏暗的， 阴沉的
@@ -3461,7 +3461,7 @@ timid	adj. 羞怯的， 胆小的
 loyalty	n. 忠诚， 忠心
 dismiss	vt. 不再考虑； 解雇， 解散； 驳回
 underlying	adj. 在下面的； 含蓄的； 潜在的
-reform	n&v. 改革， 改良， 改造； 改正， 改过自新
+reform	n. 改革， 改良， 改造 v. 改正， 改过自新
 install	vt. 安装， 设置； 使就职， 任命
 ensue	vi. 接着发生， 接踵而来， 因而产生
 indication	n. 指出， 指示； 迹象， 暗示
@@ -3481,7 +3481,7 @@ bandage	n. 绷带 vt. 用绷带绑扎
 prevalence	n. 流行
 scrap	n. 碎片，碎屑；废金属；残羹剩饭；少量，点滴 vt. 废弃， 抛弃
 syndrome	n. 综合病症， 综合症状； 一系列表现
-tow	n&vt. 拖， 拉， 牵引
+tow	n. 拖， 拉， 牵引 vt. 拖， 拉， 牵引
 imperative	adj. 必要的；紧急的，极重要的；命令的 n. 必要的事， 必须完成的事； 【语】祈使语气
 meadow	n. 草地
 hitherto	adv. 到目前为止， 迄今
@@ -3514,11 +3514,11 @@ foresee	vt. 预见， 预知
 bruise	n. 青肿，挫伤；伤痕，擦痕 vt. 打青， 使受淤伤； 挫伤， 伤害
 associate	v. 把…联系在一起；使联合，结合；交往	[ə'səuʃiət] adj. 副的 n. 伙伴，同事
 gown	n. 女礼服， 女裙服； 长袍； 罩衣
-crawl	n&v. 爬行， 蠕动； 缓慢行进
+crawl	n. 爬行， 蠕动 v. 缓慢行进
 identical	adj. 完全相同的， 同一的
 plead	vi. 恳求，请求；申诉，答辩，辩护 vt. 为…辩护， 提出…为理由
 kidney	n. 肾， 肾脏
-gleam	n&vi. 闪亮， 闪烁； 闪现， 流露
+gleam	n. 闪亮， 闪烁 vi. 闪现， 流露
 ambitious	adj. 有抱负的， 雄心勃勃的； 有野心的
 academic	adj. 学院的；学术的；纯理论的，不切实际的 n. 大学教师
 function	vi. 工作， 运行； 起作用 n. 功能，职务；【数】函数；重大聚会
@@ -3527,7 +3527,7 @@ sneak	vi. 偷偷地走，溜 vt. 偷偷地做
 void	adj. 无效的；没有的，缺乏的 n. 空虚感，寂寞感；真空，空白 vt. 使无效
 comparison	n. 比较， 对照； 比拟， 比喻
 surge	vi. 蜂拥而出；洋溢，奔放；汹涌，奔腾 n. 洋溢， 奔放； 急剧上升， 猛增； 浪涛般汹涌奔腾
-swap	n&v. 交换
+swap	n. 交换 v. 交换
 ritual	adj. 作为仪式一部分的； 例行的 n. 仪式；例行公事，老规矩
 liability	n. 责任； 负债， 债务； 不利条件， 起妨碍作用的人
 hatch	vt. 孵出；筹划， n. 舱门； 开口； 孵化
@@ -3643,11 +3643,11 @@ indicative	adj. 标示的，指示的，象征的；陈述的 n. 【语】陈述
 ward	n. 病房； 区； 受监护人
 dread	vt. 担忧，忧虑；惧怕 n. 担忧， 畏惧
 scrutiny	n. 详细检查， 仔细观察
-chase	n&vt. 追逐， 追赶， 追求
+chase	n. 追逐， 追赶， 追求 vt. 追逐， 追赶， 追求
 accident	n. 意外， 事故
 promote	vt. 促进， 增进， 发扬； 提升； 宣传， 推销
 routine	adj. 例行的， 常规的 n. 例行公事，惯例，惯常的程序
-attack	n&vt. 攻击， 进攻； 突然发作
+attack	n. 攻击， 进攻 vt. 突然发作
 divorce	n. 离婚，离异 vt. 离婚； 分离， 脱离
 tariff	n. 关税， 税率； 价目表， 收费表
 attach	vt. 缚， 系， 贴， 附加； 使依恋， 使喜爱； 使附属； 认为有
@@ -3809,7 +3809,7 @@ survive	vi. 活下来，继续存在；幸免于 vt. 从中挺过来； 从…�
 desire	vt. 想要，渴望 n. 愿望， 欲望
 initial	adj. 最初的，开始的 n. 首字母
 efficient	adj. 效率高的； 有能力的
-murmur	n&v. 小声说； 小声抱怨， 咕哝； 发出连续而低沉的声音
+murmur	n. 小声说 v. 小声抱怨， 咕哝；发出连续而低沉的声音
 fury	n. 狂怒， 暴怒； 狂暴， 狂烈
 unify	vt. 使联合， 统一； 使相同， 使一致
 muddy	adj. 泥泞的，沾满烂泥的；灰暗的，暗淡的；模糊的，糊涂的 vt. 使沾上烂泥； 使显得扑朔迷离
@@ -3855,7 +3855,7 @@ lounge	vi. 倚，躺；闲逛，闲荡 n. 休息厅， 休息室
 porch	n. 门廊
 workshop	n. 车间， 工场； 专题讨论会
 format	n. 设计，安排；格式，样式，版式 vt. 使格式化
-sacrifice	n&v. 牺牲， 舍身； 献祭， 供奉； 祭品
+sacrifice	n. 牺牲， 舍身 v. 献祭， 供奉；祭品
 illegal	adj. 不合法的， 非法的
 corps	n. 队， 部队； 一组
 eclipse	n. 食；消失，黯然失色 vt. 食， 遮掩光； 使暗淡， 使失色， 使相形见绌
@@ -3873,7 +3873,7 @@ exceedingly	adv. 极端地， 非常
 uphold	vt. 支持， 维护
 exotic	adj. 外来的， 异国情调的； 奇异的
 relief	n. 轻松， 宽慰； 缓解， 减轻， 解除； 使得到调剂； 接替， 替下
-boycott	n&vt. 抵制， 拒绝参与
+boycott	n. 抵制， 拒绝参与 vt. 抵制， 拒绝参与
 dimension	n. 尺寸， 尺度， 面积； 方面， 特点； 面积， 规模
 deserve	vt. 应受， 值得
 process	n. 过程；制作方法；程序 vt. 加工， 办理
@@ -3944,7 +3944,7 @@ assemble	vi. 集合，召集 vt. 集合， 聚集； 装配
 watertight	adj. 不透水的， 防水的； 严密的， 无懈可击的
 transition	n. 过渡， 转变
 repel	vt. 使厌恶； 击退， 逐回， 驱除； 排斥
-mutter	n&v. 轻声低语； 小声抱怨
+mutter	n. 轻声低语 v. 小声抱怨
 series	n. 一系列， 连续； 丛书， 连续剧
 complicated	adj. 复杂的， 难懂的
 junk	n. 废旧物品，破烂 vt. 丢弃， 废弃
@@ -4210,7 +4210,7 @@ symbolic	adj. 符号的； 象征性的
 distinguish	vt. 区别， 辨别， 识别； 使杰出； 使著名
 mall	n. 购物中心
 module	n. 组件， 模块， 模件； 舱
-howl	n&vi. 嗥叫； 呼啸； 吼叫， 哀号
+howl	n. 嗥叫 vi. 呼啸；吼叫， 哀号
 execute	vt. 将…处死； 实施
 substantial	adj. 可观的， 大量的； 物质的， 坚固的； 实质的， 真实的
 benefit	vi. 得益 n. 利益，恩惠；救济金，保险金，津贴 vt. 有益于
@@ -4259,7 +4259,7 @@ peninsula	n. 半岛
 extensive	adj. 广阔的； 广泛的
 residential	adj. 居住的， 住宅的； 寄宿的， 住在住所的
 definitely	adv. 一定地， 明确地
-stab	n&v. 刺， 戳
+stab	n. 刺， 戳 v. 刺， 戳
 abandon	vt. 离弃， 丢弃； 遗弃； 抛弃； 放弃
 collaboration	n. 合作， 协作； 勾结
 inspire	vt. 鼓舞； 给…以灵感
@@ -4280,7 +4280,7 @@ cannon	n. 加农炮， 大炮， 火炮
 invest	v. 投资， 投入； 授予
 reputation	n. 名誉， 名气， 名声
 project	v. 伸出； 投射； 放映 n. 方案， 计划； 课题， 项目； 工程
-shrug	n&v. 耸肩
+shrug	n. 耸肩 v. 耸肩
 arena	n. 表演场地， 竞技场； 活动场所
 independence	n. 独立； 自主； 自立
 shrub	n. 灌木
@@ -4316,7 +4316,7 @@ renaissance	n. 文艺复兴， 文艺复兴时期； 复兴， 再生
 poisonous	adj. 有毒的； 恶毒的
 condemn	vt. 谴责， 指责； 判…刑， 宣告…有罪
 assistance	n. 协助， 援助
-auction	n&vt. 拍卖
+auction	n. 拍卖 vt. 拍卖
 propel	vt. 推进， 推动； 激励， 驱使
 admit	vi. 承认 vt. 承认，供认；准许…进入
 uneven	adj. 不平坦的， 不平滑的； 不一致的， 不相等的
@@ -4343,7 +4343,7 @@ artificial	adj. 人工的， 人为的； 矫揉造作的； 模拟的
 deficiency	n. 缺乏， 不足； 缺点， 缺陷
 imaginary	adj. 想象中的， 假想的
 formula	n. 公式， 式； 原则， 方案； 配方
-disgust	n&vt. 厌恶， 憎恶
+disgust	n. 厌恶， 憎恶 vt. 厌恶， 憎恶
 transcend	vt. 超出， 超越范围
 tribute	n. 颂词， 称赞， 礼物； 贡品
 mob	n. 暴民，乌合之众 vt. 成群围住， 聚众袭击
@@ -4399,7 +4399,7 @@ siege	n. 包围， 围困
 abstract	adj. 抽象的，抽象派的 n. 摘要，梗概；抽象派艺术作品
 agenda	n. 议程
 degenerate	vi. 衰退，堕落，蜕化 adj. 衰退的，堕落的 n. 堕落者
-nurture	n&vt. 养育， 培育， 滋养
+nurture	n. 养育， 培育， 滋养 vt. 养育， 培育， 滋养
 destructive	adj. 破坏的， 毁灭的
 appearance	n. 出现， 来到； 外观
 culture	n. 文化， 文明； 教养； 培养； 培养菌
@@ -4465,7 +4465,7 @@ monetary	adj. 钱的， 货币的； 金融的
 grave	adj. 严重的， 严肃的 n. 坟墓
 advantage	n. 优点， 优势； 好处
 controversy	n. 争论， 辩论
-command	n&vt. 命令， 指挥； 控制
+command	n. 命令， 指挥 vt. 控制
 compulsory	adj. 必须做的， 强制性的； 必修的
 performance	n. 演出； 履行， 执行， 完成； 工作情况， 表现， 工作性能
 serial	adj. 连续的， 顺序排列的 n. 连续剧，连载故事
@@ -4558,7 +4558,7 @@ stun	vt. 使震惊， 使目瞪口呆； 把…打昏， 使昏迷
 acid	adj. 酸的， 酸性的； 尖刻的， 刻薄的 n. 酸
 autonomy	n. 自治， 自治权； 人身自由， 自主权
 transmission	n. 传播， 发射； 传送， 传递； 传染
-blush	n&vi. 脸红
+blush	n. 脸红 vi. 脸红
 dubious	adj. 怀疑的， 犹豫不决的， 无把握的； 有问题的； 靠不住的
 intuition	n. 直觉； 由直觉获知的信息
 artillery	n. 火炮， 大炮； 炮兵
@@ -4571,13 +4571,13 @@ exquisite	adj. 精美的， 精致的； 敏锐的， 有高度鉴赏力的； �
 collide	vi. 碰撞， 互撞； 冲突， 抵触
 remedy	n. 补救办法，纠正办法；药品，治疗法 vt. 补救， 纠正； 医治， 治疗
 cardinal	adj. 最重要的； 基本的 n. 红衣主教；【数】基数
-consent	n&vi. 同意， 赞成
+consent	n. 同意， 赞成 vi. 同意， 赞成
 insist	v. 坚持； 坚持要求； 坚决认为
 fusion	n. 联合， 合并； 核聚变
 volume	n. 卷， 册， 书卷； 容积， 体积； 音量， 响度
 mutual	adj. 相互的； 共同的
 therefore	adv. 因此， 所以
-exchange	n&vt. 交换； 交流； 兑换
+exchange	n. 交换 vt. 交流；兑换
 indignant	adj. 愤怒的， 愤慨的， 义愤的
 hesitate	vi. 犹豫， 踌躇， 含糊； 不情愿
 decimal	adj. 十进位的 n. 小数
@@ -4622,7 +4622,7 @@ decorate	vt. 装饰， 装潢， 修饰
 electrician	n. 电工， 电气技师
 occupation	n. 占领， 占据； 职业； 从事的活动， 消遣
 tendency	n. 趋向， 趋势， 倾向
-release	n&vt. 释放， 排放； 解除， 解脱； 放开， 松开； 发布； 发行
+release	n. 释放， 排放 vt. 解除， 解脱；放开， 松开；发布；发行
 caption	n. 说明文字， 字幕
 hardy	adj. 能吃苦耐劳的， 坚强的； 耐寒的
 purify	vt. 使纯净， 提纯； 使纯洁
@@ -4658,7 +4658,7 @@ epoch	n. 时期， 时代
 saleable	adj. 适合销售的
 crew	n. 全体船员； 一队工作人员
 manufacturer	n. 制造商， 制造厂
-defeat	n&vt. 战胜， 挫败
+defeat	n. 战胜， 挫败 vt. 战胜， 挫败
 valid	adj. 有效的， 正当的； 有根据的， 有理的
 inertia	n. 不活动， 惰性； 惯性
 encourage	vt. 鼓励， 怂恿； 促进， 助长， 激发
@@ -4717,7 +4717,7 @@ adhere	vi. 黏附， 附着； 遵守； 坚持； 追随， 支持
 expense	n. 花费， 消费， 费用； 开支， 业务费用
 traverse	vt. 横渡， 横越
 rigorous	adj. 严密的， 缜密的； 严格的， 严厉的
-yell	n&vi. 号叫， 叫喊
+yell	n. 号叫， 叫喊 vi. 号叫， 叫喊
 contemporary	adj. 现代的， 当代的； 同时代的
 tribe	n. 部落； 族
 activate	vt. 使活动起来； 使开始作用
@@ -4746,7 +4746,7 @@ blossom	vi. 开花； 发展， 长成 n. 花
 radical	adj. 根本的，基本的；激进的，激进派的 n. 激进分子
 manifest	adj. 明显的，显然的，明了的 vt. 显示， 表明， 证明； 使显现， 使显露
 blunt	adj. 钝的；率直的，直言不讳的 vt. 使迟钝； 使减弱； 使钝
-endeavor	n&v. 努力， 尽力， 尝试
+endeavor	n. 努力， 尽力， 尝试 v. 努力， 尽力， 尝试
 relieve	vt. 使轻松， 使宽慰； 缓解， 减轻， 解除； 使得到调剂； 接替， 替下
 quartz	n. 石英
 air-conditioning	n. 空调设备， 空调系统
@@ -4765,7 +4765,7 @@ strategy	n. 战略， 策略
 remainder	n. 余下的部分， 剩下的人数
 hypothesis	n. 假设， 假说， 前提
 revolve	vi. 旋转
-collapse	n&vi. 倒坍， 瓦解； 崩溃， 突然失败
+collapse	n. 倒坍， 瓦解 vi. 崩溃， 突然失败
 territory	n. 领土， 版图； 领域
 summon	vt. 召唤， 传唤； 鼓起， 振作； 召集， 召开
 flare	vi. 闪耀，烧旺；突发，突然发怒 n. 闪光信号， 照明弹
@@ -4844,7 +4844,7 @@ administration	n. 管理； 管理部门， 行政机关； 实行， 执行
 occasional	adj. 偶尔的， 间或发生的
 dwell	vi. 居住
 incorporate	vt. 包含； 加上， 吸收； 把…合并， 使并入
-debate	n&v. 争论， 辩论
+debate	n. 争论， 辩论 v. 争论， 辩论
 extinguish	vt. 熄灭， 扑灭； 使消亡， 使破灭
 vulnerable	adj. 易受伤的， 脆弱的； 易受攻击的， 难防御的
 furniture	n. 家具
@@ -4965,7 +4965,7 @@ grin	n. 咧嘴笑
 grip	vt. 握紧，抓牢；吸引住…的注意力 n. 紧握
 reliance	n. 依靠， 依赖
 explore	v. 探险， 探索； 仔细查阅， 探究
-display	n&vt. 陈列， 展览； 显示
+display	n. 陈列， 展览 vt. 显示
 electricity	n. 电
 climate	n. 气候； 风土， 地带； 风气， 气氛
 tentative	adj. 试探的， 试验的
@@ -5019,7 +5019,7 @@ erroneous	adj. 错误的， 不正确的
 option	n. 选择， 选择权， 选择自由； 选择的事物， 选课
 acute	adj. 严重的； 急性的； 灵敏的， 敏锐的； 精明的
 limitation	n. 限制， 限度； 局限
-jog	n&v. 慢跑； 轻轻碰撞
+jog	n. 慢跑 v. 轻轻碰撞
 terrify	vt. 使害怕， 使惊吓
 handbook	n. 手册， 便览
 ascertain	vt. 弄清， 查明； 确定
@@ -5076,7 +5076,7 @@ humidity	n. 湿度， 潮湿， 湿气
 rank	vi. 列入， 占特定等级 n. 军衔，职衔；地位，社会阶层；排，行列 vt. 把…分等，给…评定等级
 pamphlet	n. 小册子
 preparatory	adj. 预备的
-neglect	n&vt. 忽视， 忽略； 疏忽
+neglect	n. 忽视， 忽略 vt. 疏忽
 addition	n. 加， 加法； 附加物
 vein	n. 静脉， 血管； 叶脉； 纹理， 纹路； 方式， 风格
 carve	vt. 切， 把…切碎； 雕刻， 刻
@@ -5102,7 +5102,7 @@ insulate	vt. 使绝缘， 使隔热， 使隔音； 隔离， 使隔绝
 consequently	adv. 因此， 因而， 所以
 drain	vi. 慢慢减少 vt. 排去，放水；渐渐耗尽 n. 耗竭； 排水沟， 排水管
 reluctance	n. 不愿， 勉强
-rape	n&vt. 强奸
+rape	n. 强奸 vt. 强奸
 isolate	vt. 使隔离， 使孤立
 popularity	n. 普及， 流行； 声望
 nickname	n. 绰号，诨名 vt. 给…起绰号
@@ -5117,7 +5117,7 @@ alternate	adj. 交替的， 轮流的； 间隔的 v. 轮流， 交替
 biography	n. 传记
 procedure	n. 程序； 手续； 步骤
 sample	n. 样品，试样，样本 vt. 从…抽样； 品尝， 体验
-plunge	n&v. 纵身投入， 猛冲， 猛跌
+plunge	n. 纵身投入， 猛冲， 猛跌 v. 纵身投入， 猛冲， 猛跌
 skeptical	adj. 表示怀疑的
 ultraviolet	adj. 紫外的
 planetary	n. 行星的
@@ -5132,7 +5132,7 @@ vent	n. 通风口，排放口；开衩 vt. 表达， 发泄
 haunt	vt. 常出没于；使苦恼，使担忧；萦绕在心头，缠绕 n. 常去的地方
 precede	vt. 在…之前， 先于
 gasp	vi. 喘气，倒抽气 vt. 喘着气说出 n. 喘气， 倒抽气
-stroll	n&vi. 散步， 闲逛
+stroll	n. 散步， 闲逛 vi. 散步， 闲逛
 furnish	vt. 供应， 提供； 装备
 differentiate	vi. 区分，区别 vt. 区分， 区别； 使不同， 使有差异
 contact	n. 接触，联系，交往 vt. 与…接触， 与…取得联系
@@ -5217,7 +5217,7 @@ crowd	vi. 聚集， 挤， 涌 n. 群，一批 vt. 挤；挤满
 congress	n. 代表大会； 国会， 议会
 mechanical	adj. 机械的， 机械制造的， 机械学的， 力学的； 呆板的
 divine	adj. 神的， 神授的， 天赐的； 极好的， 极美的
-slaughter	n&vt. 屠杀， 杀戮； 屠宰
+slaughter	n. 屠杀， 杀戮 vt. 屠宰
 foul	adj. 难闻的，发臭的；令人不愉快的，糟透了的；污浊的，肮脏的；下流的，辱骂性的；恶劣的，有暴风雨的；邪恶的，罪恶的 vt. 对…犯规；弄脏，弄污 n. 犯规
 output	n. 产量；输出，输出功率 vt. 输出
 intricate	adj. 错综复杂的， 复杂精细的
@@ -5244,7 +5244,7 @@ paragraph	n. 段， 节
 mediate	vi. 调解，斡旋 vt. 经调解解决； 经斡旋促成
 pursuit	n. 追求， 寻求； 追赶， 追逐； 事， 嗜好， 消遣
 prophet	n. 先知； 预言者
-cycle	n&v. 自行车、 摩托车； 循环
+cycle	n. 自行车、 摩托车 v. 循环
 amplify	vt. 放大， 增强； 扩大； 详述， 进一步阐述
 lure	vt. 吸引，引诱，诱惑 n. 吸引力， 诱惑物； 诱饵， 鱼饵
 disposal	n. 丢掉， 销毁； 处理； 排列， 布置
@@ -5259,7 +5259,7 @@ clearance	n. 净空， 余隙； 许可， 批准； 票据交换， 清算； �
 customary	adj. 习惯上的， 惯常的， 合乎习俗的
 immigrant	n. 移民， 侨民
 guardian	n. 监护人； 守卫者， 保护者
-veto	n&vt. 否决
+veto	n. 否决 vt. 否决
 thorn	n. 刺， 荆棘； 带刺小灌木
 disposition	n. 性情， 性格； 意向， 倾向； 排列， 部署
 corporate	adj. 法人团体的， 公司的； 全体的， 共同的
@@ -5295,7 +5295,7 @@ expansion	n. 扩大； 扩充； 扩张； 膨胀
 wrench	vt. 猛拧，猛扭；挣脱；使扭伤 n. 痛苦， 难受； 猛扭， 猛拉； 扳手
 relevant	adj. 有关的， 切题的
 expand	v. 扩大， 膨胀
-gaze	n&vi. 凝视， 盯， 注视
+gaze	n. 凝视， 盯， 注视 vi. 凝视， 盯， 注视
 proclaim	vt. 宣告， 宣布， 声明； 显示
 magistrate	n. 地方行政官， 地方法官； 治安官
 retrieve	vi. 重新得到， 取回， 收回； 挽回， 补救； 检索
@@ -5496,7 +5496,7 @@ periodical	adj. 周期的； 定期的； 时而发生的 n. 期刊
 leaflet	v. 散发传单 n. 传单，散页印刷品，小册子
 accessory	n. 附件， 零件， 配件； 装饰品； 同谋， 帮凶， 包庇犯
 compromise	v. 妥协； 危及； 放弃 n. 妥协，和解；折中办法
-retort	n&v. 反驳， 回嘴
+retort	n. 反驳， 回嘴 v. 反驳， 回嘴
 electrify	vt. 使充电， 使电气化； 使激动， 使兴奋
 seminar	n. 研究班， 研讨会
 fringe	adj. 附加的 n. 刘海；饰以流苏的边；边缘，外围 vt. 成为…的边缘

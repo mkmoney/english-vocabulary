@@ -131,7 +131,7 @@ height	n. 高地；高度；身高；顶点
 retell	v. 复述；再讲；重述
 Europe	n. 欧洲
 holiday	n. 假日；节日；休息日 v. 外出度假
-Rusia	鲁西亚（地名）
+Russia	n. 俄罗斯
 kid	n. 小孩；小山羊 v. 欺骗；取笑；戏弄 adj. 小山羊皮制的；较年幼的
 nearly	adv. 差不多，几乎；密切地
 where	adv. 在哪里 pron. 哪里 conj. 在…的地方 n. 地点
@@ -947,7 +947,7 @@ explain	v. 说明；解释
 social	adj. 社会的，社交的；群居的 n. 联谊会；联欢会
 weigh	v. 权衡；考虑；称…重量 n. 权衡；称重量
 nine	n. 九，九个 num. 九；九个 adj. 九的，九个的
-nothing	neg. 没什么；毫不 n. 无；零；不关紧要之事 adv. 毫不；决不 pron. 无事；无物 int. 什么也没有
+nothing	pron. 没什么；没有东西；没有什么 n. 无；零；不关紧要之事 adv. 毫不 int. 什么也没有
 job	n. 工作；职业 v. 承包；代客买卖
 museum	n. 博物馆
 inside	n. 里面；内部；内情；内脏 adj. 里面的；内部的；秘密的 adv. 在里面 prep. 少于；在…之内
@@ -1460,11 +1460,11 @@ turn	v.  转动， 旋转； 扭转， 转向； 变化， 变成
 example	n.  例子， 实例； 榜样， 楷模
 result	n.  结果； 效果； 成绩， 成果
 same	pron.  同样的人 adj. 同一的；相同的，同样的
-after	adv&prep&conj.  在…以后， 在…后面
+after	adv. 在…以后， 在…后面 prep. 在…以后， 在…后面 conj. 在…以后， 在…后面
 quiet	adj.  轻声的， 安静的， 沉默的； 平静的， 寂静的；
 connect	v.  连接， 衔接； 联合， 关联； 接通电话
 hand	v.  交， 给 n. 手；指针；帮助，援助；手艺，技能
-a	indefinite article. 一，一个〔用于未曾提及或对方不知道的人或物的名称前〕
+a	art. 一，一个〔用于未曾提及或对方不知道的人或物的名称前〕
 salt	v.  腌， 盐渍； 撒盐于 n. 盐
 address	n.  地址
 nineteen	num.  十九， 十九个
@@ -1586,7 +1586,7 @@ cheat	v. 欺骗，骗取；作弊 n.  欺骗， 欺骗行为； 骗子
 regard	v.  把…看作， 认为； 考虑； 注视， 打量； 注意； 尊敬， 尊重
 rose	n.  玫瑰， 蔷薇
 thousand	num. 一千，一千个
-tonight	adv&n.  今晚
+tonight	adv. 今晚 n. 今晚
 capital	adj.  首要的， 重要的； 死罪的； 大写的 n. 资本，资金；首都，首府；大写字母
 con	n.  反对票， 反对论
 almost	adv.  几乎， 差不多
@@ -1650,7 +1650,7 @@ sport	v.  炫耀， 卖弄 n. 运动；
 walk	v.  步行， 散步； 陪…走， 护送…走
 marry	v.  娶， 嫁， 和…结婚
 concert	n.  音乐会， 演奏会
-pity	n&v.  同情， 怜悯； 可惜， 遗憾
+pity	n. 同情， 怜悯 v. 可惜， 遗憾
 discussion	n.  讨论， 谈论
 supply	v.  供给， 供应； 满足， 弥补 n. 供给，供应；存货，必需品
 unimportant	adj.  不重要的， 琐碎的
@@ -1660,13 +1660,13 @@ recycle	v.  回收利用， 再应用
 let	v.  [let-let]　允许， 让； 假设； 出租； 排放
 state	v.  陈述， 说明 n. 状态，情况；国家，政府；州
 press	v.  压， 按， 挤； 压榨， 压迫； 催促， 逼迫 n. 报刊，报界，新闻界；出版社；压，按
-welcome	v. 迎接，欢迎〔刚到达的人〕 adj. 〔某人〕受欢迎的 n. 欢迎，迎接 interjection. 欢迎〔用于对刚刚到达的人表示欢迎〕
+welcome	v. 迎接，欢迎〔刚到达的人〕 adj. 〔某人〕受欢迎的 n. 欢迎，迎接 int. 欢迎〔用于对刚刚到达的人表示欢迎〕
 meeting	n.  会议， 集会； 会合， 相会； 运动会
 want	v.  想要； 希望； 需要
 Africa	n.  非洲
 opposite	adj. 对面的，对立的，相反的 n.  对立面； 对立物
 pack	v.  捆扎， 打包； 挤在一起； 塞满
-each	pron&adv.  各个， 每个
+each	pron. 各个， 每个 adv. 各个， 每个
 bamboo	n.  竹， 竹子
 Mr.	n.  先生
 difference	n.  差别， 差异； 差， 差额； 分歧
@@ -1699,15 +1699,15 @@ team	v.  合作；　结成一队 n. 队，组
 tragedy	n.  惨事， 灾难； 悲剧
 watch	v. 注视，观看；看守，监视，照看；小心，当心 n.  表； 看管， 监视
 speech	n.  讲话， 演说； 言语， 言论； 说话方式
-clap	n&v.  [clapped-clapped, clapping] 拍手， 鼓掌
-purple	n&adj.  紫色
+clap	n. [clapped-clapped, clapping] 拍手， 鼓掌 v. [clapped-clapped, clapping] 拍手， 鼓掌
+purple	n. 紫色 adj. 紫色
 nice	adj.  好的； 令人愉快的； 友好的， 好心的； 细致的
 Jew	n.  犹太人； 犹太教徒
 thing	n.  事， 事情， 事件； 物， 东西； 局面， 情况， 事态； 所有物， 用品
 fashion	n.  流行款式， 时兴式样；　时尚，　时兴
 medical	adj.  医学的， 医疗的
 friendship	n.  友谊， 友好
-till	prep&conj.  直到
+till	prep. 直到 conj. 直到
 fridge	n.  电冰箱
 lie	v.  [lay-lain, lying] 躺， 平放； 位于； 处于(某种状
 anymore	adv.  再， 更， 还； 目前， 现在， 今后
@@ -1749,13 +1749,13 @@ video	adj. 录像的 v.  制作…的录像 n. 录像；录像带
 house	v.  供宿， 给…房子住 n. 房屋，住宅；[H-]议院
 wave	v.  挥手示意； 波动， 飘动； 高潮， 高涨 n. 波，波浪；挥动
 anything	pron.  无论什么东西， 随便什么事情； 任何东西， 任何事情
-yesterday	adv&n.  昨天
+yesterday	adv. 昨天 n. 昨天
 schoolwork	n.  学校作业， 课堂作业； 家庭作业
 furry	adj.  毛皮的， 盖着毛皮的
 early	adv.  在开始阶段， 在初期； 提前， 提早 adj. 早期的；提早的，提前的
 pain	v.  使痛苦 n. 痛，疼痛；痛苦，悲痛；
 disease	n.  疾病， 病患； 不健全， 弊端
-yes	adv&n.  是， 是的
+yes	adv. 是， 是的 n. 是， 是的
 center	v.  集中于 n. 圆心，正中；中心
 start	v.  发动； 创办， 开办； 开始， 着手； 动身， 出发； 吃惊， 惊奇
 most	adv. 最；极其，十分 adj.  最多的， 最大的； 大多数的， 大部分的
@@ -1808,7 +1808,7 @@ doll	n.  玩偶， 玩具娃娃
 chair	v.  担任主席 n. 椅子；主席，主席席位
 centre	v.  集中于 n. 圆心，正中；中心
 tennis	n.  网球
-chat	n&v.  [chatted-chatted, chatting] 闲谈， 聊天
+chat	n. [chatted-chatted, chatting] 闲谈， 聊天 v. [chatted-chatted, chatting] 闲谈， 聊天
 fetch	v.  拿来； 请来， 叫来
 choice	n.  选择， 选择权； 供选择的东西； 被选中的东西
 travel	v.  旅行； 行进； 被传送， 被传播； 走过， 驶过 n. 旅行，游历
@@ -1848,7 +1848,7 @@ twice	adv.  两倍； 两次
 soap	n.  肥皂
 morning	n.  早晨， 上午
 part	n.  一部分， 部分； 零件； 角色； 职责， 作用； 器官，
-their	adj&pron.  他们的
+their	adj. 他们的 pron. 他们的
 percent	adj.  百分之… n. 百分比，百分率
 thirteen	num.  十三， 十三个
 point	n.  要点； 观点； 点； 小数点； 时刻， 地点； 尖， 尖端； 分数， 得分
@@ -1880,7 +1880,7 @@ railway	n.  铁道， 铁路
 strict	adj.  严格的， 严厉的； 严谨的， 精确的； 完全的，
 modest	adj.  谦虚的， 谨慎的； 适度的
 you	pron.  你， 你们
-jump	n&v.  跳跃， 跳过； 猛涨， 激增
+jump	n. 跳跃， 跳过 v. 猛涨， 激增
 happen	v.  发生； 碰巧， 恰好
 sofa	n.  沙发
 pass	v.  经过， 穿过； 传递， 传送； 度过； 通过； 批准
@@ -1904,7 +1904,7 @@ relative	adj. 相对的；比较的；有关的，相关的 n.  亲属， 亲戚
 attitude	n.  态度； 看法， 意见
 treatment	n.  治疗， 疗法； 对待， 待遇； 处理
 mirror	v.  反映； 反射， 映照 n. 镜子
-compare	n&v.  比较； 比喻
+compare	n. 比较 v. 比喻
 bottle	n.  瓶子
 hot	adj.  热的； 辣的； 激烈的， 热烈的； 急躁的， 易发怒的； 最新的， 热
 how	adv.  怎么， 怎样； 多么， 多少
@@ -1946,10 +1946,10 @@ bird	n.  鸟； 禽
 club	n.  俱乐部， 社团
 talk	v.  说， 讲话； 交谈， 谈论
 tall	adj.  高的， 身材高的； 难以置信的； 难以办成的
-reply	n&v.  回答， 答复， 以…作答
+reply	n. 回答， 答复， 以…作答 v. 回答， 答复， 以…作答
 train	v.  训练； 培养 n. 列车，火车；一连串，一系列；行列
 possibly	adv.  大概， 也许
-test	n&v.  试验， 测试； 检验
+test	n. 试验， 测试 v. 检验
 planet	n.  行星
 count	v.  点…的数目， 计算； 把…算入； 认为， 看作； 值得考虑， 有重要意义
 brown	adj. 棕色的，褐色的 n.  棕色， 褐色
@@ -1986,9 +1986,9 @@ explain	v.  讲解， 说明
 hum	v.  [hummed-hummed, humming] 哼曲子； 发出嗡嗡声； 忙碌， 充满活力
 basket	n.  篮， 篓， 筐
 lunch	n.  午餐
-hope	n&v.  希望， 期望
+hope	n. 希望， 期望 v. 希望， 期望
 thirteenth	num. 第十三 n.  十三分之一
-attempt	n&v.  尝试， 企图； 努力
+attempt	n. 尝试， 企图 v. 努力
 thick	adj.  厚的， 粗的； 笨的， 迟钝的； 稠的， 浓的； 密的， 密集的
 soon	adv.  不久， 即刻； 早， 快
 December	n.  十二月
@@ -2018,23 +2018,23 @@ skin	n.  皮； 兽皮， 毛皮； 外皮， 外壳
 stamp	n.  邮票， 印花； 印， 图章； 标志， 印记； 跺脚， 顿足
 summer	n.  夏天， 夏季
 eight	num.  八
-mention	n&v.  提及， 说起
+mention	n. 提及， 说起 v. 提及， 说起
 mad	adj.  疯的， 神经错乱的； 恼火的， 狂怒的； 狂热的， 着迷的
 barbecue	v.  在烤架上烧烤 n. 烧烤野餐；金属烤架
 next	adv.  接下去， 然后； 居后地， 次于 adj. 下一个的；紧接在后的；接下来的
 stream	v.  流， 涌 n. 小河，溪流；流，一股；一连串
 member	n.  成员， 会员
 nurse	v.  护理， 照料 n. 护士；保姆，保育员
-man	n. 成年男子，男人 v. 在〔某系统、设备等上〕工作；使用，操纵〔某系统、设备等〕 interjection. 喂，嘿，啊呀〔用于强调正在说的话，尤在生气、吃惊、失望等时使用〕
+man	n. 成年男子，男人 v. 在〔某系统、设备等上〕工作；使用，操纵〔某系统、设备等〕 int. 喂，嘿，啊呀〔用于强调正在说的话，尤在生气、吃惊、失望等时使用〕
 stand	v.  [stood-stood] 站， 站立； 坐落， 位于； 继续存在， 保持有效； 处于特定状态
 map	v.  在地图上标示出； 绘制…的地图 n. 地图，图
 together	adv.  在一起， 共同； 一致地， 协调地
 illness	n.  病， 疾病
 twenty	num.  二十， 二十个
 cigarette	n.  香烟
-may	modal verb. 可能，也许 n. 山楂花
+may	modal. 可能，也许 n. 山楂花
 forward	adv. 向前；向将来，从今往后 adj.  前部的， 位于前面的
-could	modal verb. 能，会，可以〔can 的过去式〕
+could	modal. 能，会，可以〔can 的过去式〕
 health	n.  健康； 卫生， 保健
 positive	adj.  积极的， 正面的； 肯定的； 【电】正的， 阳性的； 确实的， 明确的； 十足的，
 menu	n.  菜单
@@ -2051,7 +2051,7 @@ feel	v. 感受到，觉得，体会到 n. 感觉
 thrill	n.  兴奋， 激动； 引起激动的事物； 震动， 颤抖
 main	adj.  主要的； 最重要的
 serve	v.  为…服务； 任； 招待， 接待， 伺候； 符合， 适用于， 满足； 供应；
-cough	n&v.  咳， 咳嗽
+cough	n. 咳， 咳嗽 v. 咳， 咳嗽
 smile	v.  微笑， 露出笑容； 笑， 用微笑表示 n. 微笑，笑容
 radio	v.  用无线电传送 n. 无线电广播；设备；收音机
 solution	n.  解决， 解答， 解决办法； 溶液
@@ -2096,7 +2096,7 @@ native	adj. 出生地的；当地的 n.  土生土长者， 本国人
 breath	n.  气息， 呼吸的空气， 呼吸； 微风， 轻微流动
 ball	n.  球， 球状物； 舞会
 hour	n. 小时，钟点；时间，时刻；
-repeat	n&v.  重复； 重说； 重做
+repeat	n. 重复 v. 重说；重做
 nervous	adj.  神经紧张的， 情绪不安的； 神经系统的； 神经性的
 make	v.  [made-made] 做， 制造； 作出， 制定； 使， 迫使； 获得， 挣得； 成为， 到达
 microwave	n.  微波； 微波炉
@@ -2190,7 +2190,7 @@ look	v.  看， 注视； 显得， 看上去； 朝着， 面向
 hunger	v.  渴望， 渴望得到 n. 饿，饥饿；食欲，胃口；渴望
 laboratory	n.  实验室， 研究室
 allow	v.  允许， 准许， 容许； 允许…进入； 同意给； 承认
-knock	n&v.  敲， 打； 碰撞， 撞击
+knock	n. 敲， 打 v. 碰撞， 撞击
 father	n.  父亲； 祖先， 先辈； 创始人， 奠基人
 rule	n.  规则， 规章； 习惯， 惯例， 惯常的事； 统治， 管辖
 proper	adj.  正确的， 适当的； 合乎体统的， 正当的； 固有的， 特有的
@@ -2341,7 +2341,7 @@ immediately	adv.  立即， 马上； 直接地， 紧接着地
 pork	n.  猪肉
 symphony	n.  交响乐， 交响曲； 和谐， 协调
 dollar	n.  美元； 元
-sleep	n&v.  [slept-slept]　睡
+sleep	n. [slept-slept] 睡 v. [slept-slept] 睡
 hungry	adj.  饥饿的， 感到饿的； 渴望得到的
 French	n. 法国人；
 vocabulary	n.  词汇； 词汇量； 词汇表
@@ -2452,7 +2452,7 @@ chairman	n.  主席； 会议主持人； 董事长
 boat	n.  船， 小船
 future	adj. 将来的，未来的 n.  将来， 今后； 前途， 前景
 more	adv. 更，更多 adj.  更多的； 更大的
-shake	n&v.  [shook-shaken] 摇动， 摇； 颤抖， 震动
+shake	n. [shook-shaken] 摇动， 摇 v. 颤抖， 震动
 cent	n.  分， 分币
 honor	v.  尊敬 n. 尊敬，敬意；荣誉，光荣
 screen	v.  掩蔽， 遮蔽， 包庇； 放映， 播放(电视 n. 屏幕，银幕；遮蔽；屏风
@@ -2467,7 +2467,7 @@ border	v.  给…加上边， 围； 邻接， 毗连； 近似， 接近 n. 边
 read	v.  [read-read]　读， 阅读； 朗读， 宣读； 读懂； 观
 below	prep.  在…下面， 到…下面； 在…以下； 低于
 already	adv.  早已， 已经
-shall	modal verb. 〔某事〕必定，一定〔发生〕
+shall	modal. 〔某事〕必定，一定〔发生〕
 touch	v. 触摸，碰到；接触，涉及 n.  接触， 碰到； 触觉； 修饰， 润色； 风格， 手法
 clock	n.  钟
 real	adj.  真的， 真正的； 真实的， 现实的
@@ -2482,13 +2482,13 @@ shame	v.  使蒙受羞辱 n. 羞耻，羞愧；可耻的人；遗憾的事，可
 around	adv. 在周围，在附近；到处，四周；大约 prep.  在…各处， 遍及； 在…四周； 在
 pronoun	n.  代词
 and	conj.  和， 与， 及； 那么， 则； 然后， 接着； 而且， 还
-today	adv&n.  今天； 现今
+today	adv. 今天 n. 现今
 talented	adj.  有才能的， 有才干的； 天才的
 predict	v.  预言， 预测
 saying	n.  话， 言语； 俗话； 成语， 格言， 谚语； 口头禅
-row	n&v.  争吵；　斥责； 争吵；　斥责
+row	n. 争吵 v. 斥责；争吵；斥责
 France	n.  法国
-OK	adv&int.  不错， 很好； 对吧
+OK	adv. 不错， 很好 int. 对吧
 raincoat	n.  雨衣
 abroad	adv.  到国外； 广为流传 adj. 在国外；广泛四散
 fifteen	num.  十五
@@ -2500,7 +2500,7 @@ minute	n.  分， 分钟； 一会儿， 片刻； 此时此刻， 立刻
 super	adj.  极好的， 上等的； 超级的； 过分的
 chore	n.  家庭杂务； 困难的工作； 令人厌烦的工作
 semester	n.  学期
-until	prep&conj.  直到…时， 到…为止； 直到…
+until	prep. 直到…时， 到…为止 conj. 直到…
 strategy	n.  谋略， 战略， 策略
 dull	adj.  乏味的， 单调的； 晦暗的； 愚钝的， 笨的； 钝的
 reason	v.  推断， 分析； 推论， 推理； 理喻， 劝告 n. 原因，理由；理性，理智
@@ -2544,11 +2544,11 @@ popular	adj.  流行的， 通俗的， 大众的； 受欢迎的
 art	n. 美术，艺术；技术，技艺；
 mom	n.  妈妈
 black	adj.  黑色的； 黑暗的； 黑人的； 不加奶的； 黯淡的， 毫无希望的
-tour	n&v.  旅行， 旅游
+tour	n. 旅行， 旅游 v. 旅行， 旅游
 call	v.  把…叫做， 把…称为； 打电话给； 叫， 大声说出； 召唤， 传唤； 召开，
 calm	adj. 镇静的，镇定的；平静的，无风的 v.  平静； 镇静
 such	adv.  那么 adj. 这样的，这种的；那么的，如此程度的；上述的，该
-kick	n&v.  踢
+kick	n. 踢 v. 踢
 ask	v.  询问， 问； 要求
 describe	v.  描写， 描述； 说明
 through	adv.  从头到尾， 自 prep. 穿过，通过；在整个…期间，从头到尾；凭借，经由
@@ -2567,7 +2567,7 @@ those	pron.  那些
 worry	v. 担心，发愁；困扰，折磨 n.  担心， 发愁， 忧虑
 imagine	v.  想象， 设想； 料想， 猜想
 town	n.  镇， 市镇； 市区， 市中心
-might	modal verb. 可以〔用于礼貌地提出建议〕 n. 力量；威力；权力
+might	modal. 可以〔用于礼貌地提出建议〕 n. 力量；威力；权力
 telephone	v.  打电话 n. 电话
 girl	n.  姑娘， 女孩； 女儿
 delicious	adj.  美味的； 芬芳的； 宜人的
@@ -2577,7 +2577,7 @@ camp	v.  露营， 扎营 n. 营地，露营
 volunteer	v.  自愿 n. 志愿者，志愿兵
 museum	n.  博物馆
 everywhere	adv.  到处， 各处， 无论何处
-worst	adv&adj.  最坏， 最差， 最糟
+worst	adv. 最坏， 最差， 最糟 adj. 最坏， 最差， 最糟
 clothing	n.  服装， 衣着
 aloud	adv.  出声地， 大声地
 shop	n.  商店， 店铺； 工厂， 车间
@@ -2589,7 +2589,7 @@ color	n. 颜色；颜料；肤色 vt.  给…着色
 truck	n.  卡车， 载重汽车； 敞篷货车
 book	v.  预订，　预约 n. 书，书籍；本子，簿册；
 show	v.  表明， 证明； 显示， 出示； 带领； 教， 告知； 演出， 放映； 显现，
-nor	conj&adv.  也不， 也没有
+nor	conj. 也不， 也没有 adv. 也不， 也没有
 Mars	n.  火星； 战神
 not	adv.  不， 没， 不是
 arrive	v.  到达， 到来； 来临； 达到， 达成
@@ -2648,7 +2648,7 @@ seldom	adv.  很少， 不常
 physics	n.  物理， 物理学
 protect	v.  保护， 保卫
 stress	v.  强调， 着重； 重读 n. 压力，紧张；强调，重要性；重音
-display	n&v.  陈列， 展览； 显示， 表现
+display	n. 陈列， 展览 v. 显示， 表现
 wet	adj. 湿的，潮的；多雨的，雨天的 v.  把…弄湿， 使潮湿
 born	adj.  出生的， 产生的； 天生的
 kill	v.  杀死， 扼杀； 终止， 否决； 使疼痛， 使非常痛苦； 消磨， 打发
@@ -2711,7 +2711,7 @@ original	adj. 最初的，原始的；新颖的，有创意的；原创性的 n.
 album	n.  粘贴簿； 集邮簿； 相册； 音乐专辑
 electric	adj.  电动的， 电的
 also	adv.  而且， 也， 此外； 同样
-say	v. 说 n. 决定权；发言权 interjection. 哎，我说〔用于表示惊讶或引起别人注意〕
+say	v. 说 n. 决定权；发言权 int. 哎，我说〔用于表示惊讶或引起别人注意〕
 sandwich	v.  把…做成三明治； 夹入， 挤进 n. 三明治，夹肉面包
 enough	adv. 足够地，充分地；相当，达到一定的程度 adj.  足够的
 increase	n.  增加， 增强； 增加， 增强
@@ -2720,7 +2720,7 @@ spread	v. 展开，伸开；散布，蔓延；涂，敷 n.  传播， 蔓延； 
 afternoon	n.  下午， 午后
 attention	n.  注意力， 专心； 关注； 关心； 立正姿势
 shiny	adj.  光亮的， 有光泽的； 反光的
-visit	n&v.  参观， 访问
+visit	n. 参观， 访问 v. 参观， 访问
 headache	n.  头痛； 令人头痛的人
 front	adj.  前面的， 在前面的 n. 前面，正面；前线，战线
 oneself	pron.  自己， 自身； 亲自， 本人
@@ -2732,7 +2732,7 @@ bring	v.  [brought-brought] 带来， 拿来； 把…引来； 促使， 使发
 bag	v.  把…装进袋子 n. 袋；手提包，旅行袋
 sauce	n.  沙司； 调味汁， 酱汁； 佐料
 awake	adj. 醒着的 v.  [awoke-awaken] 醒， 唤醒； 意识到， 醒悟
-kiss	n&v.  吻
+kiss	n. 吻 v. 吻
 hamburger	n.  汉堡包
 offer	v. 给予，提供；表示愿意；提出，提议 n.  提供， 提议； 报价， 开价
 fit	v. 可容纳，装进 adj. 〔尤因经常锻炼而〕健壮的，健康的 n. 〔感情的〕冲动，一阵发作 v. 〔疾病〕发作，突发
@@ -2747,7 +2747,7 @@ surf	v.  冲浪； 冲浪， 浏览 n. 拍岸浪花；拍岸涛声；拍岸碎�
 sure	adv.  确实； 当然 adj. 肯定的，有把握的；一定的，必然的；可靠的，稳妥的
 angry	adj.  生气的， 发怒的， 愤怒的
 am	v.  是
-an	indefinite article. 一（个）〔用于以元音开头的单词前〕
+an	art. 一（个）〔用于以元音开头的单词前〕
 fold	v.  折叠， 合拢 n. 褶痕，褶缝
 as	adv. 同样，一样地 prep.  当做， 作为； 像， 如同
 plastic	adj. 塑料的；可塑的
@@ -2767,11 +2767,10 @@ maths	n.  数学
 deaf	adj.  聋的； 不愿听的， 装聋的
 dead	adv.  完全地； 绝对地 adj. 死的；无感觉的；呆板的 n. 死者
 mouth	n.  嘴， 口
-adj.	abbr. 调整（adjacent）
 tomato	n. 番茄，西红柿
 sea	n.  海， 海洋
 sixth	num. 第六 n.  六分之一
-search	n&v.  搜索， 寻找； 搜查
+search	n. 搜索， 寻找 v. 搜查
 see	v.  [saw-seen] 看， 观看； 参见， 会晤； 领会， 理解； 想象； 把…看作； 发现； 体
 servant	n.  仆人；　公务员
 fool	v. 欺骗，愚弄；干蠢事 adj.  愚蠢的 n. 蠢人，笨蛋
@@ -2920,7 +2919,7 @@ office	n.  办公室， 办事处， 营业所； 处， 所， 局； 公职，
 while	conj. 当…的时候，和…同时；而，然而；虽然，尽管 n.  一会儿， 时间
 northern	adj.  北方的， 北部的
 second	adj. 次等的，二等的 num. 第二 n.  秒， 瞬间
-that	determiner. 那，那个〔指已经提到或已经知道的人、事物、想法等〕 conjunction. 〔用于动词、名词或形容词后引导一个从句，表示某人所说或所想，或陈述一个事实或理由〕 adv. 那么〔大、多等〕〔尤指通过手势比画来表示大小、数量等〕
+that	det. 那，那个 pron. 那，那个 conj. 用于引导从句 adv. 那么
 high	adj.  高的， 高度的； 高级的， 重要的； 高兴的， 愉快的； 正盛
 edge	n.  边， 边缘； 刀口， 刃； 优势， 优越地位
 son	n.  儿子； 孩子
@@ -2953,7 +2952,7 @@ careful	adj.  小心的， 仔细的
 recipe	n.  烹饪法， 食谱； 方法； 秘诀， 诀窍
 seal	v.  封， 密封 n. 封铅，封条；印，图章；海豹
 box	v.  把…装箱； (用拳或手 n. 箱，盒；包厢
-bow	n&v.  鞠躬， 低头； 鞠躬， 低头
+bow	n. 鞠躬， 低头 v. 鞠躬， 低头
 boy	n.  男孩
 head	n.  头， 头部； 顶部， 前端； 领导， 首脑； 头数； 头脑， 智力
 month	n.  月， 一个月的时间
@@ -3045,7 +3044,7 @@ country	n.  国家； 国土； 国民， 全国人民； 农村， 乡村
 symbol	n.  符号， 标志； 象征
 bus	n.  公共汽车
 separate	v.  使分离， 使分开； 划分， 区分， 区别； 分离， 分开； 分居； 使分离， 使分开； 划分， 区分， 区别； 分离， 分开； 分居
-dislike	n&v.  不喜欢， 讨厌
+dislike	n. 不喜欢， 讨厌 v. 不喜欢， 讨厌
 buy	v.  [bought-bought] 买， 买得； 向…行贿， 收买
 express	adv.  用快递方式； v. 表示，表达 adj. 特快的，直达的；明确的，明白表示的
 ruler	n.  统治者， 支配者； 尺
@@ -3100,7 +3099,7 @@ beyond	prep.  在…的那边； 远于； 迟于； 超出， 非…所及
 pupil	n.  学生； 瞳孔
 problem	n.  问题， 疑难问题； 思考题， 讨论题
 road	n.  路， 道路； 途径
-review	n&v.  审查， 复查； 复习， 温习， 回顾； 评论； 检阅
+review	n. 审查， 复查 v. 复习， 温习， 回顾；评论；检阅
 sight	n. 视力，视觉；看见，瞥见；视域，眼界；情景，景象，奇观；
 weather	n.  天气， 气候， 气象
 asleep	adj.  睡着的， 睡熟的
@@ -3170,7 +3169,7 @@ realistic	adj.  现实的； 现实主义的； 逼真的
 twelfth	num. 第十二 n.  十二分之一
 monster	adj.  巨大的， 庞大的 n. 怪物；妖怪；巨人，巨兽，巨大的东西
 plain	adj. 清晰的，明白的；相貌平平的，无姿色的；不矫饰的，朴素的 n.  平原
-should	modal verb. 应当，应该 〔用于提供或征求建议〕
+should	modal. 应当，应该 〔用于提供或征求建议〕
 only	adv. 只，仅仅，才；不料，反而，结果却 adj.  唯一的， 仅有的； 最好的， 独一
 create	v.  创造； 创作； 引起， 产生
 tag	n. 标签，标牌 v. 给…加上标签，给…挂上标牌
@@ -3191,13 +3190,13 @@ everybody	pron.  每人， 人人， 各人
 week	n.  星期， 周
 sail	v. 航行；驾驶；在…上航行 n.  帆； 航行
 purpose	n.  目的， 意图； 用途； 效果
-regret	n&v.  [regretted-regretted, regretting] 懊悔； 遗憾， 抱歉
+regret	n. [regretted-regretted, regretting] 懊悔 v. 遗憾， 抱歉
 line	n.  线条， 界线； 条纹， 皱纹； 方针， 路线； 线路， 电话线； 线， 绳； 排， 行； 铁路
 snake	v.  蜿蜒； 弯弯曲曲地行进 n. 蛇
 flee	v.  [fled-fled] 逃离， 逃跑
 hero	n.  英雄， 勇士； 男主角， 男主人公
 hers	pron.  她的
-can	modal verb. 能，会 n. 〔装食品或饮料的〕金属罐 v. 把…制成罐头
+can	modal. 能，会 n. 〔装食品或饮料的〕金属罐 v. 把…制成罐头
 award	v. 授予，给予；判给 n.  奖， 奖品； 报酬， 津贴
 cap	v.  覆盖； 笼罩 n. 帽子，便帽；盖，罩，套
 organize	v.  组织， 安排； 使有条理； 使有机化
@@ -3213,7 +3212,7 @@ nose	v.  嗅出， 探出 n. 鼻子；鼻状物，前端突出部分
 balloon	n.  气球
 cost	n. 费用；成本 v. 价格为；需支付〔某一数量的钱〕
 satisfy	v.  满足， 满意； 确信， 信服
-will	modal verb. 将，会，要〔用于构成将来时〕 n. 意志，毅力，决心 v. 设法用意志力驱使〔某事发生〕
+will	modal. 将，会，要〔用于构成将来时〕 n. 意志，毅力，决心 v. 设法用意志力驱使〔某事发生〕
 match	v.  和…相配， 和…相称 n. 比赛，竞赛；对手，敌手；匹配；火柴
 smoke	v.  冒烟， 冒气； 抽烟 n. 烟，烟尘；吸烟，抽烟
 follow	v. 跟随；接着；遵照，听从；听懂，领会 n.  跟随
