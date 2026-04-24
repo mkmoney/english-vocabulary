@@ -299,6 +299,24 @@ WHERE NOT EXISTS (
 );`);
   lines.push("");
 
+  lines.push("-- Remove stale level relations that are no longer present in the current source txt files.");
+  lines.push("CREATE TEMP TABLE redflix_vocab_import_levels (word text NOT NULL, level text NOT NULL, PRIMARY KEY (word, level)) ON COMMIT DROP;");
+  for (const chunk of chunkArray(levels, 1000)) {
+    lines.push(`INSERT INTO redflix_vocab_import_levels (word, level)
+SELECT word, level
+FROM jsonb_to_recordset(${sqlJson(chunk)}) AS mapped(word text, level text)
+ON CONFLICT (word, level) DO NOTHING;`);
+  }
+  lines.push(`DELETE FROM vocab_entry_levels
+USING vocab_entries
+WHERE vocab_entry_levels.entry_id = vocab_entries.id
+  AND NOT EXISTS (
+    SELECT 1 FROM redflix_vocab_import_levels
+    WHERE redflix_vocab_import_levels.word = vocab_entries.word
+      AND redflix_vocab_import_levels.level = vocab_entry_levels.level
+  );`);
+  lines.push("");
+
   lines.push("-- Upsert vocab entries. Meaning uses the first occurrence across the 8 source files.");
   for (const chunk of chunkArray(entries, 1000)) {
     lines.push(`INSERT INTO vocab_entries (word, phonetic, meaning)
